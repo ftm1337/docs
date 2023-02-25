@@ -1,7 +1,7 @@
 ---
 
 title: Community
-parent: Welcome 🦾,🚀
+parent: Welcome
 nav_order:
 has_children:
 
