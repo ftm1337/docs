@@ -1,6 +1,6 @@
 ---
 
-title: Welcome
+title: Welcome to Guru Network
 nav_order: 1
 has_children: true
 
