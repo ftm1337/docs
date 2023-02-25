@@ -1,6 +1,7 @@
 ---
 
 title: eTHENA
+parent: Projects
 has_children: true
 
 ---
