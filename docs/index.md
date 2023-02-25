@@ -6,4 +6,4 @@ has_children:
 
 ---
 
-![](ftmguru-landing.png)
+![](https://ftm.guru/icons/ftmguru-landing.png)
