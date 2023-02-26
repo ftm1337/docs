@@ -12,3 +12,6 @@ nav_order:
 
 ## Visit the Dapp
 ### [ftm.guru/equalizer](https://ftm.guru/equalizer)
+
+## Explore Analytics
+### [dune.com/1337/venamm](https://dune.com/1337/venamm)

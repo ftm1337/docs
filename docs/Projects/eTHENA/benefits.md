@@ -2,6 +2,7 @@
 
 title: Benefits to Thena.fi
 parent: eTHENA
+grand_parent: Projects
 has_children:
 nav_order:
 
