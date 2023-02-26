@@ -1,6 +1,6 @@
 ---
 
-title: Benefits to Liquidity Providers
+title: For Liquidity Providers
 grand_parent: eTHENA
 parent: Benefits
 has_children:

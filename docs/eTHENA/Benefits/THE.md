@@ -1,6 +1,6 @@
 ---
 
-title: Benefits to THE Token Holders
+title: For THE Token Holders
 grand_parent: eTHENA
 parent: Benefits
 has_children:

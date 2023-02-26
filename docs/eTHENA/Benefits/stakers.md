@@ -1,6 +1,6 @@
 ---
 
-title: Benefits to Stakers
+title: For Stakers
 grand_parent: eTHENA
 parent: Benefits
 has_children:

@@ -1,6 +1,6 @@
 ---
 
-title: Benefits to veTHE NFT holders
+title: For veTHE NFT holders
 grand_parent: eTHENA
 parent: Benefits
 has_children:
