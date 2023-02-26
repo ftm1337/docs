@@ -3,8 +3,8 @@
 title: Community
 parent: Getting Started
 grand_parent:
-nav_order:
 has_children:
+nav_order:
 
 ---
 

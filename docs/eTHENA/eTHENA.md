@@ -1,7 +1,8 @@
 ---
 
 title: eTHENA
-parent: Projects
+parent:
+grand_parent:
 has_children: true
 nav_order:
 
