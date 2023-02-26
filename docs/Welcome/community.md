@@ -1,8 +1,8 @@
 ---
 
 title: Community
-parent: Getting Started
 grand_parent:
+parent: Getting Started
 has_children:
 nav_order:
 

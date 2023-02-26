@@ -1,8 +1,8 @@
 ---
 
 title: Getting Started
-parent:
 grand_parent:
+parent:
 has_children: true
 nav_order: 2
 

@@ -1,8 +1,8 @@
 ---
 
 title: ve-NFT AMM
-parent:
 grand_parent:
+parent:
 has_children:
 nav_order:
 

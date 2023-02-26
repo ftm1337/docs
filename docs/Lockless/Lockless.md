@@ -1,8 +1,8 @@
 ---
 
 title: Lockless Protocol
-parent:
 grand_parent:
+parent:
 has_children: true
 nav_order:
 
@@ -29,9 +29,11 @@ Each deployment has it's own unique features!
 
 
 ### Mint
-- ⇢ [eliteness.network/lockless](https://eliteness.network/lockless)
+⇢ [eliteness.network/lockless](https://eliteness.network/lockless)
+
 ### Stake
-- ⇢ [eliteness.network/lockless](https://eliteness.network/lockless)
+⇢ [eliteness.network/lockless](https://eliteness.network/lockless)
+
 ### Trade
-- ⇢ [ABcDeFx](https://abcdefx.eliteness.network)
-- ⇢ [Equilibre](https://equilibrefinance.com)
+⇢ [ABcDeFx](https://abcdefx.eliteness.network)
+⇢ [Equilibre](https://equilibrefinance.com)

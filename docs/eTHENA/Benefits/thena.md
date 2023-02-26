@@ -1,8 +1,8 @@
 ---
 
 title: Benefits to Thena.fi
-parent: eTHENA
-grand_parent:
+grand_parent: eTHENA
+parent: Benefits
 has_children:
 nav_order:
 
