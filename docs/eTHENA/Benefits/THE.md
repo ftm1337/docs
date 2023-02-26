@@ -1,6 +1,6 @@
 ---
 
-title: Benefits to Liquidity Providers
+title: Benefits to THE Token Holders
 grand_parent: eTHENA
 parent: Benefits
 has_children:
@@ -9,4 +9,6 @@ nav_order:
 ---
 
 
-# Benefits to Liquidity Providers
+# Benefits to THE Token Holders
+
+
