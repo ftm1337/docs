@@ -1,7 +1,8 @@
 ---
 
 title: Community
-parent: Welcome to Guru Network
+parent: Getting Started
+grand_parent:
 nav_order:
 has_children:
 

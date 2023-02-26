@@ -1,8 +1,9 @@
 ---
 
 title: ve-NFT AMM
-parent: Projects
-has_children: true
+parent:
+grand_parent:
+has_children:
 nav_order:
 
 ---

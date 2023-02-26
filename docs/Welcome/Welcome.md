@@ -1,6 +1,8 @@
 ---
 
-title: Welcome to Guru Network
+title: Getting Started
+parent:
+grand_parent:
 has_children: true
 nav_order: 2
 
