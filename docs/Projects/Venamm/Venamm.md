@@ -1,0 +1,14 @@
+---
+
+title: ve-NFT AMM
+parent: Projects
+has_children: true
+nav_order:
+
+---
+
+# ve-N A.M.M.
+> The Automated Market Maker Decentralized Exchange for trading veNFTs permissionlessly, 24x7 against a Hybrid Liquidity pool. Casually known as **the Venamm.**
+
+## Visit the Dapp
+### [ftm.guru/equalizer](https://ftm.guru/equalizer)
