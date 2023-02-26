@@ -9,11 +9,11 @@ nav_order:
 ---
 
 
-# Benefits to Thena.fi ecosystem
+# Benefits to Liquidity Providers
 There are quite a few things that Guru Network brings to the table:
 
 ## Permanent Bribes
-The eTHENA protocol has a dedicated 80% of it's net yield for Bribing the stakeholders of Thena DEX - the veTHE holders.
+The eTHENA protocol has a dedicated minimum of 13.37% of it's net yield for Bribing the stakeholders of Thena DEX - the veTHE holders.
 
 With eTHENA whitelisted, Thena will gain a permanent briber who is guaranteed to bribe in each and every epoch, irrespective of the market conditions.
 

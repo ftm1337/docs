@@ -16,8 +16,18 @@ SW-Tokens are liquid wrappers for the locked assets. They can be employed to ear
 
 ## Deployments
 Lockless Protocol is active on the following assets:
+
+### SWKAVA
+
 - KAVA - The Native Kava Chain Coin
+
+### SWECH
+
 - ECH - The Native Echelon Chain Coin
+
+### SWCANTO
+
+- CANTO - The Native Canto Chain Coin
 
 Each deployment has it's own unique features!
 

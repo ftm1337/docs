@@ -3,7 +3,7 @@
 title: Benefits
 grand_parent:
 parent: eTHENA
-has_children:
+has_children: true
 nav_order:
 
 ---
