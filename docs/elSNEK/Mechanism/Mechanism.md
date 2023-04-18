@@ -38,10 +38,3 @@ All 100% of the Votes will be used for this purpose and this purpose only. Even 
 	- 20% of AVAX is distributed to Stakers
 	- 80% of AVAX is sent as Bribes to SoliSnek.finance voters
 
-
-### Note:
-> This was different prior to the First DAO proposal for elSNEK:
-- 74.26% of the AVAX will be distributed to elSNEK stakers.
-- 13.37% of the AVAX will be give to SoliSnek.finance Voters as a Bribe to gather votes for the vAMM-elSNEK/WAVAX pool.
-- 13.37% of the AVAX will be used to acquire Protocol-owned Liquidity.
-
