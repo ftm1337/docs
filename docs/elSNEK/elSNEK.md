@@ -1,6 +1,6 @@
 ---
 
-title: eTHENA
+title: Le Snek. 🐍
 grand_parent:
 parent:
 has_children: true
@@ -8,27 +8,27 @@ nav_order:
 
 ---
 
-# ***e***THENA
-Liquid-Wrapper for veTHE NFTs
+# ***el***SNEK
+Liquid-Wrapper for veSNEK NFTs
 
 ## Introduction
-eTHENA is a liquid wrapper for the locked veTHE (Thena’s veNFT) which makes it possible to trade the benefits of a veTHE position using a traditional A.M.M. such as Thena itself without being subject to a long-term lock-up period of 735 days (2 years).
+Le Snek. 🐍, also known by its ticker $**elSNEK**, is a liquid wrapper for the locked veSNEK (SoliSnek’s veNFT) which makes it possible to trade the benefits of a veSNEK position using a traditional A.M.M. such as SoliSnek itself without being subject to a long-term lock-up period of 730 days (2 years).
 
 ## Quick Links
 
 ### Mint
-⇢ [eliteness.network/ethena](https://eliteness.network/ethena)
+⇢ [eliteness.network/el-snek](https://eliteness.network/el-snek)
 
 ### Stake
 ⇢ [eliteness.network/staking](https://eliteness.network/staking)
 
 ### Trade
-⇢ [Thena.fi](https://thena.fi/swap)
+⇢ [SoliSnek.finance](https://solisnek.finance/swap)
 ⇢ [Firebird](https://app.firebird.finance/swap)
 
 ### Analytics
-⇢ [dune.com/eliteness/ethena](https://dune.com/eliteness/ethena)
+⇢ [dune.com/eliteness/el-snek](https://dune.com/eliteness/el-snek)
 
 ----
 
-Let's get started with your eTHENA journey
+Let's get started with your elSNEK journey

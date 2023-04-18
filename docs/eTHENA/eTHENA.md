@@ -12,7 +12,7 @@ nav_order:
 Liquid-Wrapper for veTHE NFTs
 
 ## Introduction
-eTHENA is a liquid wrapper for the locked veTHE (Thena’s veNFT) which makes it possible to trade the benefits of a veTHE position using a traditional A.M.M. such as Thena itself without being subject to a long-term lock-up period of 735 days (2 years).
+eTHENA is a liquid wrapper for the locked veTHE (Thena’s veNFT) which makes it possible to trade the benefits of a veTHE position using a traditional A.M.M. such as Thena itself without being subject to a long-term lock-up period of 730 days (2 years).
 
 ## Quick Links
 
