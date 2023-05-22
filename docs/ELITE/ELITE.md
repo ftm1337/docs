@@ -16,9 +16,16 @@ One of the earliest tokens on the Fantom Network, ELITE was created with the sol
 
 ## Limited Supply
 ELITE has a Circualting Supply of 250 tokens.
+- Each transfer of ELITE incurs a 1.337% tax which is used for (Regeneration](/regeneration)
 
 ## Trading ELITE
-ELITE token can be traded on over 50 Decentralized Exchange
+ELITE token can be traded on over 50 Decentralized Exchange and over 100 liquidity pools!
+
+It is recommended to trade ELITE only using DEX Aggregators, such as:
+- [FireBird](https://app.firebird.finance/swap)
+- [Odos.xyz](https://app.odos.xyz)
+- [OpenOcean](https://app.openocean.finance)
+- [1inch](https://app.1inch.io)
 
 ## Contract Address
 > ELITE token exists only on the Fantom Opera chain!
