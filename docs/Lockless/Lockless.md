@@ -1,6 +1,6 @@
 ---
 
-title: Lockless Protocol
+title: 🔓 Lockless Protocol
 grand_parent:
 parent:
 has_children: true
