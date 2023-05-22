@@ -2,7 +2,7 @@
 
 title: ELITE, Our Token
 grand_parent:
-parent: Getting Started
+parent:
 has_children: true
 nav_order: 3
 
