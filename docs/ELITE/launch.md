@@ -1,10 +1,10 @@
 ---
 
 title: Launch
-grand_parent: Getting Started
+grand_parent:
 parent: ELITE
 has_children:
-nav_order:
+nav_order: 1
 
 ---
 

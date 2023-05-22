@@ -2,9 +2,9 @@
 
 title: 🤗 Meet our Community!
 grand_parent:
-parent: Getting Started
+parent:
 has_children:
-nav_order: 1
+nav_order:
 
 ---
 
