@@ -1,6 +1,6 @@
 ---
 
-title: El Chronos. 🌀
+title: 🌀 El Chronos
 grand_parent:
 parent:
 has_children: true

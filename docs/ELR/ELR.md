@@ -1,6 +1,6 @@
 ---
 
-title: El Ramses
+title: 👑 El Ramses
 grand_parent:
 parent:
 has_children: true

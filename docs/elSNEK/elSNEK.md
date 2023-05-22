@@ -1,6 +1,6 @@
 ---
 
-title: Le Snek
+title: 🐍 Le Snek
 grand_parent:
 parent:
 has_children: true
