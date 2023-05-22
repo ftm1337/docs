@@ -1,17 +1,14 @@
 ---
 
 title: Launch
-grand_parent: Welcome
+grand_parent: Getting Started
 parent: ELITE
-has_children: true
+has_children:
 nav_order:
 
 ---
 
-# An Elite History
-One of the earliest tokens on the Fantom Network, ELITE was created with the sole purpose of being a prized possession due to its scarce supply.
-
-## Launch
+# The Launch
 ELITE is a fixed supply token which had a maximum supply of 1337 when it was born on 17th May, 2021 on Fantom. It had a 1.337% tax on transfer which would continuosly burn it, reducing it's maximum supply.
 
 ### Initial Liquidity
