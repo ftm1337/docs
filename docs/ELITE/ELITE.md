@@ -16,7 +16,7 @@ One of the earliest tokens on the Fantom Network, ELITE was created with the sol
 
 ## Limited Supply
 ELITE has a Circualting Supply of 250 tokens.
-- Each transfer of ELITE incurs a 1.337% tax which is used for (Regeneration](/regeneration)
+- Each transfer of ELITE incurs a 1.337% tax which is used for [Regeneration](/regeneration)
 
 ## Trading ELITE
 ELITE token can be traded on over 50 Decentralized Exchange and over 100 liquidity pools!
