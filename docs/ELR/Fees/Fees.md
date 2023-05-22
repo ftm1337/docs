@@ -2,7 +2,7 @@
 
 title: Protocol Fees
 grand_parent:
-parent: eTHENA
+parent: ELR
 has_children:
 nav_order: 4
 

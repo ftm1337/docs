@@ -2,7 +2,7 @@
 
 title: Mechanism
 grand_parent:
-parent: eTHENA
+parent: elCHR
 has_children:
 nav_order: 2
 
