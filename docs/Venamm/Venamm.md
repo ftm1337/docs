@@ -1,6 +1,6 @@
 ---
 
-title: ve-NFT AMM
+title: 🖼 VeNft A.M.M.
 grand_parent:
 parent:
 has_children:

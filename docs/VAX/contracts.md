@@ -19,7 +19,7 @@ Blockchain Network | Contract Address
 MultiVAC           | 0xbaC576111e2BC5EfBbE7c5d765b9DC44083901fD
 
 ## Router
-The Router contract is the main contract that someone should use to interact with ABcDeFx.
+The Router contract is the main contract that someone should use to interact with VAX.
 
 Blockchain Network | Contract Address
 ------------------ | ----------------
