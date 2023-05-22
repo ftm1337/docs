@@ -1,6 +1,6 @@
 ---
 
-title: 😎 eTHENA
+title: 🕶 eTHENA
 grand_parent:
 parent:
 has_children: true
