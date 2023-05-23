@@ -2,7 +2,7 @@
 
 title: ieTHENA
 grand_parent:
-parent: eTHENA
+parent: 😎 eTHENA
 has_children:
 nav_order: 3
 

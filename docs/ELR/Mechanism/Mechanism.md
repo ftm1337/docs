@@ -2,7 +2,7 @@
 
 title: Mechanism
 grand_parent:
-parent: ELR
+parent: 👑 El Ramses
 has_children:
 nav_order: 2
 

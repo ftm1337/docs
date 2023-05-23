@@ -24,4 +24,4 @@ On the third day, the entire supply of the LP-tokens representing the-then circu
 ## Supply Cap
 During the second month after its launch, the community decided to limit the supply of ELITE token to 250 tokens only.
 
-Since then, the Circulating supply of ELITE has been fixed at 250 ELITE token.
+Since then, the Circulating supply of ELITE has been fixed at 250 ELITE tokens.

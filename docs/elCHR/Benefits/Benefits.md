@@ -2,7 +2,7 @@
 
 title: Benefits
 grand_parent:
-parent: elCHR
+parent: 🌀 El Chronos
 has_children: true
 nav_order: 1
 

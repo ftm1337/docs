@@ -1,7 +1,7 @@
 ---
 
 title: For Liquidity Providers
-grand_parent: ELR
+grand_parent: 👑 El Ramses
 parent: Benefits
 has_children:
 nav_order:

@@ -1,7 +1,7 @@
 ---
 
 title: For Thena.fi
-grand_parent: eTHENA
+grand_parent: 😎 eTHENA
 parent: Benefits
 has_children:
 nav_order:

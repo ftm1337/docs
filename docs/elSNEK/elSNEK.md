@@ -8,7 +8,7 @@ nav_order:
 
 ---
 
-# ***el***SNEK
+# 🐍 Le Snek
 Liquid-Wrapper for veSNEK NFTs
 
 ## Introduction

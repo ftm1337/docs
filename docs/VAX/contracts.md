@@ -2,7 +2,7 @@
 
 title: Contracts
 grand_parent:
-parent: VAX
+parent: 💉 V.A.X.
 has_children:
 nav_order:
 

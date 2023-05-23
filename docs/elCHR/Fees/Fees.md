@@ -2,7 +2,7 @@
 
 title: Protocol Fees
 grand_parent:
-parent: elCHR
+parent: 🌀 El Chronos
 has_children:
 nav_order: 4
 
@@ -16,7 +16,7 @@ It can be broadly classified into 2 sections:
 - Performance Fees
 
 ## Protocol-owned Liquidity
-Half of the 13.37% of ETH will buyback eTHENA from the market and be matched with the other half to create liquidity tokens of the elCHR/WETH pair at Chronos DEX.
+Half of the 13.37% of ETH will buyback elCHR from the market and be matched with the other half to create liquidity tokens of the elCHR/WETH pair at Chronos DEX.
 
 
 

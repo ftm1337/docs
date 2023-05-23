@@ -1,7 +1,7 @@
 ---
 
 title: For veCHR NFT holders
-grand_parent: elCHR
+grand_parent: 🌀 El Chronos
 parent: Benefits
 has_children:
 nav_order:

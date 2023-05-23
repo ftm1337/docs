@@ -1,7 +1,7 @@
 ---
 
 title: For Stakers
-grand_parent: elSNEK
+grand_parent: 🐍 Le Snek
 parent: Benefits
 has_children:
 nav_order:

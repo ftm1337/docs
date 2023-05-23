@@ -2,7 +2,7 @@
 
 title: SWKAVA
 grand_parent:
-parent: Lockless Protocol
+parent: 🔓 Lockless Protocol
 has_children:
 nav_order:
 

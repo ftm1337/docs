@@ -2,7 +2,7 @@
 
 title: Contracts
 grand_parent:
-parent: ABcDeFx
+parent: 🇪 E3
 has_children:
 nav_order:
 

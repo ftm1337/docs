@@ -2,7 +2,7 @@
 
 title: Benefits
 grand_parent:
-parent: elSNEK
+parent: 🐍 Le Snek
 has_children: true
 nav_order: 1
 

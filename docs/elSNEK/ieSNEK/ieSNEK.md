@@ -2,7 +2,7 @@
 
 title: ieSNEK
 grand_parent:
-parent: elSNEK
+parent: 🐍 Le Snek
 has_children:
 nav_order: 3
 
