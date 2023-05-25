@@ -20,7 +20,7 @@ Le Snek. 🐍, also known by its ticker $**elSNEK**, is a liquid wrapper for the
 ⇢ [eliteness.network/el-snek](https://eliteness.network/el-snek)
 
 ### Stake
-⇢ [eliteness.network/staking](https://eliteness.network/staking)
+⇢ [eliteness.network/el-snek/staking](https://eliteness.network/el-snek/staking)
 
 ### Trade
 ⇢ [SoliSnek.finance](https://solisnek.finance/swap)

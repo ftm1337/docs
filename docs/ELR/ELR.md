@@ -8,11 +8,11 @@ nav_order:
 
 ---
 
-# ***e***RAMNA
+# **ELR :  *El Ramses***
 Liquid-Wrapper for veRAM NFTs
 
 ## Introduction
-El Ramses is a liquid wrapper for RAM locked veRAM (RAMna’s veNFT) which makes it possible to trade RAM benefits of a veRAM position using a traditional A.M.M. such as Ramses itself without being subject to a long-term lock-up period of 730 days (2 years).
+El Ramses is a liquid wrapper for Ramses governance tokens - Vote-Escrowed veRAM (a *veNFT*) which makes it possible to trade the benefits of a veRAM position using a traditional A.M.M. such as Ramses itself without being subject to a long-term lock-up period of 730 days (2 years).
 
 ## Quick Links
 
@@ -20,7 +20,7 @@ El Ramses is a liquid wrapper for RAM locked veRAM (RAMna’s veNFT) which makes
 ⇢ [eliteness.network/el-ramses](https://eliteness.network/el-ramses)
 
 ### Stake
-⇢ [eliteness.network/el-ramses/staking](https://eliteness.network/staking)
+⇢ [eliteness.network/el-ramses/staking](https://eliteness.network/el-ramsesstaking)
 
 ### Trade
 ⇢ [Ramses.exchange](https://ramses.exchange/swap)
