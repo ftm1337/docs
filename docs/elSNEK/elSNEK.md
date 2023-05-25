@@ -12,7 +12,7 @@ nav_order:
 Liquid-Wrapper for veSNEK NFTs
 
 ## Introduction
-Le Snek. 🐍, also known by its ticker $**elSNEK**, is a liquid wrapper for the locked veSNEK (SoliSnek’s veNFT) which makes it possible to trade the benefits of a veSNEK position using a traditional A.M.M. such as SoliSnek itself without being subject to a long-term lock-up period of 730 days (2 years).
+Le Snek. 🐍, also known by its ticker $**elSNEK**, is a liquid wrapper for the locked veSNEK (SoliSnek’s veNFT) which makes it possible to trade the benefits of a veSNEK position using a traditional A.M.M. such as SoliSnek itself without being subject to a long-term lock-up period of 365 days (1 year).
 
 ## Quick Links
 

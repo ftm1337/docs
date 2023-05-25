@@ -16,14 +16,14 @@ nav_order: 2
 - ielSNEK is a dedicated compounder for elSNEK.
 
 ## Minting elSNEK
-Initially in the first week, each 1 THE inside a veNFT will be able to mint out 1 elSNEK (1:1 ratio).
+Initially in the first week, each 1 SNEK inside a veNFT will be able to mint out 1 elSNEK (1:1 ratio).
 
 ### Minting-price Ratio & Rebases
 As the epochs go by the rewards from rebasing will be added to the main veNFT of elSNEK protocol without minting any new elSNEK. This will cause the minting ratio to shift from 1:1 to 1:(1+R), R being the rebase factor.
 
-> For example, if the rebase for 2nd epoch is 0.5%, then the mint ratio will increase to 1.005, which means it would take a veNFT with 1.005 THE inside it to mint 1 elSNEK token.
+> For example, if the rebase for 2nd epoch is 0.5%, then the mint ratio will increase to 1.005, which means it would take a veNFT with 1.005 SNEK inside it to mint 1 elSNEK token.
 
-Due the fact that there are no negative rebases in veTHE system, this minting-price ratio of elSNEK will keep on increasing forever, and it will keep on appreciating against plain THE in a veNFT.
+Due the fact that there are no negative rebases in veSNEK system, this minting-price ratio of elSNEK will keep on increasing forever, and it will keep on appreciating against plain SNEK in a veNFT.
 
 ## Usage of the veNFT
 The main veNFT of the system will be simply used to maximize the returns from voting. Vote distribution will only consider the after-sale value (in AVAX) of the earnable Bribes & Voter fees to decide its vote.

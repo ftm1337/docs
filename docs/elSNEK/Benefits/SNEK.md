@@ -9,6 +9,6 @@ nav_order:
 ---
 
 
-# Benefits to THE Token Holders
+# Benefits to SNEK Token Holders
 
 
