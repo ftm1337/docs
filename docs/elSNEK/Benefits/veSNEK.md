@@ -9,4 +9,4 @@ nav_order:
 ---
 
 
-# Benefits to veTHE NFT holders
+# Benefits to veSNEK NFT holders
