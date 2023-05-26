@@ -9,7 +9,7 @@ nav_order:
 ---
 
 # Contract Addresses
-> ABcDeFx runs on multiple blockchain networks!
+> E3 runs on Fantom Opera
 
 ## Factory
 This is the core contract responsible for creating a 'liquidity **pool**' for a '**pair**' of tokens. A 'pair' can have multiple pools!
