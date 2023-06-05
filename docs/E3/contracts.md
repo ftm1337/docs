@@ -50,7 +50,7 @@ The Router contract is the main contract that someone should use to interact wit
 
 Blockchain Network | Contract Address
 ------------------ | ----------------
-Fantom Opera       | 0xB9A64ab6b91F5c7a78c2360CfF759dE8a8a450d5
+Fantom Opera       | -
 
 ## v2 : Factory
 This is the core contract responsible for creating a 'liquidity **pool**' for a '**pair**' of tokens. A 'pair' can have multiple pools!
