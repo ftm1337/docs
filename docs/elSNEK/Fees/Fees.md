@@ -18,10 +18,10 @@ It can be broadly classified into 2 sections:
 ## Protocol-owned Liquidity
 Half of the 13.37% of AVAX will buyback elSNEK from the market and be matched with the other half to create liquidity tokens of the elSNEK/WAVAX pair at SoliSnek.finance DEX.
 
-After elSNEK is whitelisted by SoliSnek.finance Core Team, these LP tokens will be staked into its SoliSnek.finance gauge to earn THE. Earned yield will be re-compounded.
+After elSNEK is whitelisted by SoliSnek.finance Core Team, these LP tokens will be staked into its SoliSnek.finance gauge to earn SNEK. Earned yield will be re-compounded.
 
 ***Note**: Prior to the first DAO proposal for elSNEK, this part was used differently:*
-> *All of the THE earned from this staking will be given back to SoliSnek Voters as Bribes to attract further votes for our core pool (elSNEK/WAVAX).*
+> *All of the SNEK earned from this staking will be given back to SoliSnek Voters as Bribes to attract further votes for our core pool (elSNEK/WAVAX).*
 
 
 

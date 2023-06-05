@@ -16,14 +16,14 @@ nav_order: 2
 - ielCHR is a dedicated compounder for elCHR.
 
 ## Minting elCHR
-Initially in the first week, each 1 THE inside a veNFT will be able to mint out 1 elCHR (1:1 ratio).
+Initially in the first week, each 1 CHR inside a veNFT will be able to mint out 1 elCHR (1:1 ratio).
 
 ### Minting-price Ratio & Rebases
 As the epochs go by the rewards from rebasing will be added to the main veNFT of elCHR protocol without minting any new elCHR. This will cause the minting ratio to shift from 1:1 to 1:(1+R), R being the rebase factor.
 
-> For example, if the rebase for 2nd epoch is 0.5%, then the mint ratio will increase to 1.005, which means it would take a veNFT with 1.005 THE inside it to mint 1 elCHR token.
+> For example, if the rebase for 2nd epoch is 0.5%, then the mint ratio will increase to 1.005, which means it would take a veNFT with 1.005 CHR inside it to mint 1 elCHR token.
 
-Due the fact that there are no negative rebases in veCHR system, this minting-price ratio of elCHR will keep on increasing forever, and it will keep on appreciating against plain THE in a veNFT.
+Due the fact that there are no negative rebases in veCHR system, this minting-price ratio of elCHR will keep on increasing forever, and it will keep on appreciating against plain CHR in a veNFT.
 
 ## Usage of the veNFT
 The main veNFT of the system will be simply used to maximize the returns from voting. Vote distribution will only consider the after-sale value (in ETH) of the earnable Bribes & Voter fees to decide its vote.
