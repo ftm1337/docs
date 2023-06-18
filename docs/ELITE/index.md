@@ -11,6 +11,9 @@ nav_order: 3
 # ELITE
 > $ELITE is the ftm.guru token!
 
+## An Elite History
+One of the earliest tokens on the Fantom Network, ELITE was created with the sole purpose of being a prized possession due to its scarce supply.
+
 ## Limited Supply
 ELITE is one of the first tokens on the fantom network. It has a Circulating Supply of 250 tokens.
 - Each transfer of ELITE incurs a 1.337% tax which is used for [Regeneration](/regeneration), The taxes collected will be utilized for paying bounties and compensating individuals for their work on Guru Network each week. After the 7-day period, the leftover funds will be returned to the treasury.
