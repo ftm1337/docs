@@ -11,12 +11,10 @@ nav_order: 3
 # ELITE
 > $ELITE is the ftm.guru token!
 
-## An Elite History
-One of the earliest tokens on the Fantom Network, ELITE was created with the sole purpose of being a prized possession due to its scarce supply.
-
 ## Limited Supply
-ELITE has a Circualting Supply of 250 tokens.
+ELITE is one of the first token of the fantom network,has a Circualting Supply of 250 tokens.
 - Each transfer of ELITE incurs a 1.337% tax which is used for [Regeneration](/regeneration)
+- Each elite token is backed from the treasury if the price of elite drop under the backing treasury will buyback the elite token bring the value back to the treasury one 
 
 ## Trading ELITE
 ELITE token can be traded on over 50 Decentralized Exchange and over 100 liquidity pools!
