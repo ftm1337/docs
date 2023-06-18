@@ -13,8 +13,8 @@ nav_order: 3
 
 ## Limited Supply
 ELITE is one of the first token of the fantom network,has a Circualting Supply of 250 tokens.
-- Each transfer of ELITE incurs a 1.337% tax which is used for [Regeneration](/regeneration)
-- Each elite token is backed from the treasury if the price of elite drop under the backing treasury will buyback the elite token bring the value back to the treasury one 
+- Each transfer of ELITE incurs a 1.337% tax which is used for [Regeneration](/regeneration), The taxes collected will be utilized for paying bounties and compensating individuals for their work on Guru.network, with a one-week delay. After the 7-day period, the funds will be returned to the treasury.
+- Each Elite token is backed by the treasury, meaning that if the price of Elite drops below the backing, the treasury will initiate a buyback of Elite tokens to restore their value back to the treasury
 
 ## Trading ELITE
 ELITE token can be traded on over 50 Decentralized Exchange and over 100 liquidity pools!
