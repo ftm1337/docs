@@ -18,9 +18,9 @@ Status | Site Address | Notes
 ✅ Active		| [eliteness.network](https://eliteness.network)		| Official App Directory
 ✅ Active		| [venft.app](https://venft.app)						| Borrowing & Lending Market for veNFTs
 ✅ Active		| [mtv.guru](https://mtv.guru)							| MultiVAC Network DeFi suite & Tools
-⛔ Deprecated	| `fmc.guru`											| FantomMarketCap, DeFi Analytics for Fantom
-⛔ Deprecated	| `kcc.guru`											| Kucino GameFi apps on Kucoin Chain
-⛔ Deprecated	| `ech.guru`											| Apps for Echelon Network
+⛔ Deprecated	| **`fmc.guru`*											| FantomMarketCap, DeFi Analytics for Fantom
+⛔ Deprecated	| **`kcc.guru`*											| Kucino GameFi apps on Kucoin Chain
+⛔ Deprecated	| **`ech.guru`**										| Apps for Echelon Network
 
 ## Our Offerings
 

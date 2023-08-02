@@ -8,7 +8,7 @@ nav_order:
 
 ---
 
-# Addressbook
+# 🔖 Addressbook
 > Directory of blockchain addresses related Guru Network
 
 
