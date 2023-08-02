@@ -3,7 +3,7 @@
 title: 🔖 Addressbook
 grand_parent:
 parent:
-has_children: true
+has_children:
 nav_order:
 
 ---
