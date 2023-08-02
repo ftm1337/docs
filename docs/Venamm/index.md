@@ -1,6 +1,6 @@
 ---
 
-title: 🖼 VeNft A.M.M.
+title: 🎴 veNFT A.M.M. DEX
 grand_parent:
 parent:
 has_children:
