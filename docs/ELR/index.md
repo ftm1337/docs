@@ -8,7 +8,7 @@ nav_order:
 
 ---
 
-# **ELR :  *El Ramses***
+# 👑 **ELR :  *El Ramses***
 Liquid-Wrapper for veRAM NFTs
 
 ## Introduction

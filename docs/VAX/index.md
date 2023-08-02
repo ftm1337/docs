@@ -8,7 +8,7 @@ nav_order:
 
 ---
 
-# V.A.X.
+# 💉 V.A.X.
 > An acronym for **V**alue **A**dded E**x**change
 
 The **V**alue **A**dded E**x**change (a.k.a. V.A.X. 💉) is the Biggest Community-powered Decentralized Exchange, founded in early 2022.

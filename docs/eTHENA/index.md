@@ -8,7 +8,7 @@ nav_order:
 
 ---
 
-# ***e***THENA
+# 😎 ***e***THENA
 Liquid-Wrapper for veTHE NFTs
 
 ## Introduction

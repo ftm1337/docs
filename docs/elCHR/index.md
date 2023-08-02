@@ -8,7 +8,7 @@ nav_order:
 
 ---
 
-# ***el***CHR
+# 🌀 ***el***CHR
 Liquid-Wrapper for veCHR NFTs
 
 ## Introduction

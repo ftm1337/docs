@@ -8,7 +8,7 @@ nav_order:
 
 ---
 
-# Lockless
+# 🔓 Lockless Protocol
 Liquid-Staking Protocol for unlocking the potential of locked assets!
 
 ## Introduction

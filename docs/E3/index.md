@@ -8,7 +8,7 @@ nav_order:
 
 ---
 
-# E3
+# 🇪 E3
 E3 is a Dex offering zero-slippage trading and capital efficiency through its 'Bucket' model and concentrated liquidity. EⅢ was the first Concentrated Liquidity AMM to adopt the Solidly Model and implement the separation of Trade-Fee rewards from Liquidity Incentives.
 
 EⅢ aims to provide all the functionality of a centralized exchange (CEX) like Binance or Coinbase on the Decentralized Blockchain. It offers features such as limit orders  while maintaining low swap fees and zero limit order fees. Additionally, we utilize innovative position technology, employing ERC-1155 tokens (also known as fNFTs), which enable users and protocols to have improved use cases and greater efficiency compared to ERC-721 (traditional JPEGs).

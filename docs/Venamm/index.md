@@ -8,7 +8,7 @@ nav_order:
 
 ---
 
-# ve-N A.M.M.
+# 🎴 veN AMM
 > The Automated Market Maker Decentralized Exchange for trading veNFTs permissionlessly, 24x7 against a Hybrid Liquidity pool. Casually known as **the Venamm.**
 
 ## Visit the Dapp

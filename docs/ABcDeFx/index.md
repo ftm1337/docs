@@ -8,7 +8,7 @@ nav_order:
 
 ---
 
-# ABcDeFx
+# 💱 ABcDeFx
 > An acronym for **A** **B**lock**c**hain **De**centralized **F**oreign E**x**change Market.
 Multi-chain StableSwap DEX & Forex Market.
 
