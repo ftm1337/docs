@@ -1,19 +1,19 @@
 ---
 
-title: For veRETRO NFT holders
-grand_parent: 🎮 elRETRO
+title: For veTHE NFT holders
+grand_parent: 😎 eTHENA
 parent: Benefits
 has_children:
 nav_order:
 
 ---
 
-# Benefits to veRETRO holders
-veRETRO holder are the biggest beneficiaries!
+# Benefits to veTHE holders
+veTHE holder are the biggest beneficiaries!
 
 > Earn BNB as Voting Rewards Directly
 
-veRETRO holders who mint elRETRO with their veRETRO earn pure BNB from our protocol. This unique feature removes the repetitive and time consuming experience of claiming dozens of different tokens in small quantities and converting them into more meaningful and stable assets.
+veTHE holders who mint eTHENA with their veTHE earn pure BNB from our protocol. This unique feature removes the repetitive and time consuming experience of claiming dozens of different tokens in small quantities and converting them into more meaningful and stable assets.
 Instead of this, we replace it with a streamlined experience of a single claim, paid as BNB, direct to our users wallets. We handle all the messy conversions, and give you the best returns by employing market leading cross-protocol aggregators such as our core partner [Odos.xyz](https://odos.xyz)'s homegrown AI-powered cryptoasset conversions.
 
 > Hyper-optimized Voting
@@ -36,10 +36,10 @@ Using our protocol removes all these overhead expenses as you dont have to creat
 ## And..
 > Moar Bribes!!!
 
-A major portion of our Net Revenue is dedicated solely to Bribes. For the uninitiated, "Bribes" are basically rewards we pay directly to veRETRO voters each and every week, as a gift for voting on our elRETRO' liquidity pools. Its a symbiotic relationship which keeps on strengthening epoch after epoch as we pay more and more rewards to all other external veRETRO holders who are not a part of our protocol.
+A major portion of our Net Revenue is dedicated solely to Bribes. For the uninitiated, "Bribes" are basically rewards we pay directly to veTHE voters each and every week, as a gift for voting on our eTHENA' liquidity pools. Its a symbiotic relationship which keeps on strengthening epoch after epoch as we pay more and more rewards to all other external veTHE holders who are not a part of our protocol.
 
 The stronger and bigger we grow, the more we Bribe!
 
-And the more we bribe, the stronger Retro becomes!
+And the more we bribe, the stronger Thena becomes!
 
 

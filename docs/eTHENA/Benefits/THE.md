@@ -1,7 +1,7 @@
 ---
 
-title: For RETRO Token Holders
-grand_parent: 🎮 elRETRO
+title: For THE Token Holders
+grand_parent: 😎 eTHENA
 parent: Benefits
 has_children:
 nav_order:
@@ -9,10 +9,10 @@ nav_order:
 ---
 
 
-# Benefits to RETRO holders
-RETRO Lockers get access to instant liquidity for their locked positions. This in turn makes it more attractive to lock RETRO in the first place as the presence of a dedicated exit liquidity for veNFTs instills more confidence into to minds of investors.
+# Benefits to THE holders
+THE Lockers get access to instant liquidity for their locked positions. This in turn makes it more attractive to lock THE in the first place as the presence of a dedicated exit liquidity for veNFTs instills more confidence into to minds of investors.
 
-It also opens the door for new investors to take Retro for a trial run with our yield optimizing protocol.
+It also opens the door for new investors to take Thena for a trial run with our yield optimizing protocol.
 
-Such users graduate to lock RETRO into veRETRO via minting elRETRO with their RETRO!
+Such users graduate to lock THE into veTHE via minting eTHENA with their THE!
 
