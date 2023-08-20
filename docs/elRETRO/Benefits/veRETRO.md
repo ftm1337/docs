@@ -1,7 +1,7 @@
 ---
 
 title: For veRETRO NFT holders
-grand_parent: 🎮 elRETRO
+grand_parent: 😎 elRETRO
 parent: Benefits
 has_children:
 nav_order:
@@ -11,10 +11,10 @@ nav_order:
 # Benefits to veRETRO holders
 veRETRO holder are the biggest beneficiaries!
 
-> Earn BNB as Voting Rewards Directly
+> Earn MATIC as Voting Rewards Directly
 
-veRETRO holders who mint elRETRO with their veRETRO earn pure BNB from our protocol. This unique feature removes the repetitive and time consuming experience of claiming dozens of different tokens in small quantities and converting them into more meaningful and stable assets.
-Instead of this, we replace it with a streamlined experience of a single claim, paid as BNB, direct to our users wallets. We handle all the messy conversions, and give you the best returns by employing market leading cross-protocol aggregators such as our core partner [Odos.xyz](https://odos.xyz)'s homegrown AI-powered cryptoasset conversions.
+veRETRO holders who mint elRETRO with their veRETRO earn pure MATIC from our protocol. This unique feature removes the repetitive and time consuming experience of claiming dozens of different tokens in small quantities and converting them into more meaningful and stable assets.
+Instead of this, we replace it with a streamlined experience of a single claim, paid as MATIC, direct to our users wallets. We handle all the messy conversions, and give you the best returns by employing market leading cross-protocol aggregators such as our core partner [Odos.xyz](https://odos.xyz)'s homegrown AI-powered cryptoasset conversions.
 
 > Hyper-optimized Voting
 
@@ -40,6 +40,6 @@ A major portion of our Net Revenue is dedicated solely to Bribes. For the uninit
 
 The stronger and bigger we grow, the more we Bribe!
 
-And the more we bribe, the stronger Retro becomes!
+And the more we bribe, the stronger Thena becomes!
 
 

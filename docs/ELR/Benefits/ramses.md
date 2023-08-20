@@ -21,7 +21,7 @@ With ELR whitelisted, Ramses will gain a permanent briber who is guaranteed to b
 Since ELR's core pool is with WETH, the trading volume that takes place will pay the voters with ETH & ELR. And this volume is guaranteed by the Kompound Protocol.
 
 ## 'Fair Tokenomics' offering infinite scalability
-Unlike generic tokens, the supply of ELR is not controlled by anyone. It can scale as much as THE itself. There are no "team tokens" or "VC Shares" , and  ELR can be minted at will by any THE or veRAM holder, permissionlessly.
+Unlike generic tokens, the supply of ELR is not controlled by anyone. It can scale as much as RAM itself. There are no "team tokens" or "VC Shares" , and  ELR can be minted at will by any RAM or veRAM holder, permissionlessly.
 
 ## Extending the options for veRAM
 ELR opens us the conduit for making the Locked veRAM position liquid again. It also relieves the user from the burden of claiming multiple tokens from bribes & trader-fees and subsidises the gas costs by socializing it.
