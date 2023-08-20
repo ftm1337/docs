@@ -1,7 +1,7 @@
 ---
 
 title: For Stakers
-grand_parent: 😎 elRETRO
+grand_parent: 🎮 elRETRO
 parent: Benefits
 has_children:
 nav_order:

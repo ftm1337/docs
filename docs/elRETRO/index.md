@@ -1,6 +1,6 @@
 ---
 
-title: 😎 elRETRO
+title: 🎮 elRETRO
 grand_parent:
 parent:
 has_children: true
@@ -8,7 +8,7 @@ nav_order:
 
 ---
 
-# 😎 ***el***RETRO
+# 🎮 El Retro
 Liquid-Wrapper for veRETRO NFTs
 
 ## Introduction

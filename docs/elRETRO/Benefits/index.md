@@ -2,7 +2,7 @@
 
 title: Benefits
 grand_parent:
-parent: 😎 elRETRO
+parent: 🎮 elRETRO
 has_children: true
 nav_order: 1
 
