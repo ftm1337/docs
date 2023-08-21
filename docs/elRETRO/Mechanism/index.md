@@ -41,10 +41,3 @@ Earned **RETRO tokens will Not be sold**, and instead be converted into locked p
 	- 20% of MATIC is distributed to Stakers
 	- 80% of MATIC is sent as Bribes to Retro voters
 
-
-### Note:
-> This was different prior to the First DAO proposal for elRETRO:
-- 74.26% of the MATIC will be distributed to elRETRO stakers.
-- 13.37% of the MATIC will be give to Retro Voters as a Bribe to gather votes for the vAMM-elRETRO/WMATIC pool.
-- 13.37% of the MATIC will be used to acquire Protocol-owned Liquidity.
-
