@@ -16,12 +16,11 @@ It can be broadly classified into 2 sections:
 - Performance Fees
 
 ## Protocol-owned Liquidity
-Half of the 13.37% of MATIC will buyback elRETRO from the market and be matched with the other half to create liquidity tokens of the elRETRO/WMATIC pair at Retro.fi DEX.
+Half of the 13.37% of MATIC will buyback elRETRO from the market and be matched with the other half to create liquidity tokens of the elRETRO/WMATIC pair at Retro DEX.
 
-After elRETRO is whitelisted by Retro.fi Core Team, these LP tokens will be staked into its Retro.fi gauge to earn RETRO. Earned yield will be re-compounded.
+After elRETRO is whitelisted by Retro's Core Team, these LP tokens will be staked into its Retro gauge to earn RETRO. Earned yield will be re-compounded.
 
-***Note**: Prior to the first DAO proposal for elRETRO, this part was used differently:*
-> *All of the RETRO earned from this staking will be given back to Retro Voters as Bribes to attract further votes for our core pool (elRETRO/WMATIC).*
+> *All of the RETRO earned from this staking will be locked, converted to elRETRO and given back to Retro Voters as Bribes to attract further votes for our core pool (elRETRO/WMATIC).*
 
 
 

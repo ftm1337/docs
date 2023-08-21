@@ -92,3 +92,22 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+callouts_level: quiet # or loud
+callouts_opacity: 0.75

@@ -40,6 +40,6 @@ A major portion of our Net Revenue is dedicated solely to Bribes. For the uninit
 
 The stronger and bigger we grow, the more we Bribe!
 
-And the more we bribe, the stronger Thena becomes!
+And the more we bribe, the stronger Retro becomes!
 
 
