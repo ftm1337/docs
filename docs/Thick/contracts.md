@@ -39,7 +39,7 @@ NFT Manager | 0x2B52294425a9a229322228de659eDE9D146D7c2f
 Quoter      | 0xF5B7181877FeAB982A4b49a99E84BB7cBEBEFF98
 Router      | 0x1F7A12B40bFc8e8561008Bc2ca1FBdc71A36d0e8
 
-### Fees Synthesizer
+### Fees Synthesizers
 
 Network  | Fee-Tier | Pairing      | Synthesizer Smart Contract Address
 -------- | -------- | ------------ | -----------------------------------
