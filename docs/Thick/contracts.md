@@ -2,7 +2,7 @@
 
 title: Contracts
 grand_parent:
-parent: 🏋 Thick
+parent: 🍑 Thick
 has_children:
 nav_order:
 
