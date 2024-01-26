@@ -17,7 +17,11 @@ date: "Dec. 1st, 2021"
 This document attempts to address how the 1337 ELITEs are distributed.  
 _^ implies approximation._
 ### API Endpoint
-[https://ftm.guru/rawdata/supplies.json](https://ftm.guru/rawdata/supplies.json)
+No CORS
+- [https://elite-supply-api.ftm.guru/api](https://elite-supply-api.ftm.guru/api)
+
+Sample Summary
+- [https://ftm.guru/rawdata/supplies.json](https://ftm.guru/rawdata/supplies.json)
 
 ## Overview
 ### Max Supply = 1337 ELITE
@@ -28,12 +32,13 @@ _^ implies approximation._
 - The present number of total ELITEs in existence.
 - Excludes the ELITE burned directly by the Protocol's burn function.
 
-### Current Supply = 250^
+### Current Supply = 273
+#### Includes
 - Includes only the ELITE that can be accessed by general public
-- Excludes Protocol Reserve (671 ELITE)
+- Includes Treasury holdings (eliteness.eth)
+#### Excludes
+- Excludes Protocol Reserve (1046 ELITE)
 - Excludes ELITEs considered burnt.
-- Excludes Team Tokens (13.37 ELITE)
-- Excludes E..L.I.T.E. D.A.O. Treasury (12 ELITE)
 
 ### Burned Supply
 - Includes ELITE burned directly by the Protocol's burn function. (<0.1 ELITE)

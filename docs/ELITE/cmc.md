@@ -1,6 +1,6 @@
 ---
 
-title: Self-Reporting (CoinMarketCap)
+title: Self-Report (CMC)
 grand_parent:
 parent: ELITE, Our Token
 has_children:
@@ -38,7 +38,7 @@ Token
 
 ### Description
 
-> [Click here to expand...](About ftm.guru)
+### [Click here to expand : About ftm.guru](./ftm.guru.md)
 
 ### Website URL
 <https://ftm.guru>
