@@ -9,9 +9,9 @@ nav_order: 2
 ---
 
 {: .warning }
-> *Updated a long ago!*
+> > *Updated a long ago!*
 >
-> The information underneath only covers what we build during our first year!
+> The information underneath only covers what we built during our first year!
 >
 > Ever since, we have expanded to multiple chains and multiple networks with 50+ new Dapps and authored thousands of smart contracts. You may find more information about them elsewhere in these Docs or on our Dapp Directory: [Eliteness.Network](https://Eliteness.Network).
 
