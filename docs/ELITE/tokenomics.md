@@ -16,7 +16,9 @@ With its blooming array of Dapps and Services, Guru Network's revenues accrue in
 
 We grow this treasury with active management, investing into our own creations and those that the community deems promising.
 
-This Treasury's Liquid Assets establishes a Risk-Free Value (RFV) which acts as a mechanism that Floors the minimum market price of ELITE beneath which it cannot fall. If it drops below this mark, the Treasury may liquidate some of its undesirable assets and may buy some ELITE which may bring it back to partiy with its Floor price.
+This Treasury's Liquid Assets establish a Risk-Free Value (RFV) which acts as a mechanism that Floors the minimum market price of ELITE beneath which it cannot fall.
+
+If it drops below this mark, the Treasury may liquidate some of its undesirable assets and may buy some ELITE which may bring it back to partiy with its Floor price.
 
 Combined with the [Burned Liquidity](./launch.md), it implicitly insures ELITE, making it a Sound Store of Value.
 
