@@ -36,6 +36,7 @@ Sample Summary
 #### Includes
 - Includes only the ELITE that can be accessed by general public
 - Includes Treasury holdings (eliteness.eth)
+
 #### Excludes
 - Excludes Protocol Reserve (1046 ELITE)
 - Excludes ELITEs considered burnt.

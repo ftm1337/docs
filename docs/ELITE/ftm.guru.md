@@ -17,7 +17,9 @@ nav_order: 2
 
 # Introduction to ftm.guru
 A Multi-faceted growth hacker for indie projects, [**ftm.guru**](https://ftm.guru) provides numerous Tools, Services and niche utility-applications to users and bespoke product customization, liquidity enhancement, tailored smart contract solutions and data analytics products to De-Fi innovators.
+
 The Guru Network has something to offer for everyone.
+
 # Eliteness
 ELITE token serves as the key to access the premium services offered on ftm.guru, with tier-levels classified as the Eliteness, gained by holding [**ELITE**](https://ftmscan.com/token/0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882).
 ## LF - LITE Farmlands
