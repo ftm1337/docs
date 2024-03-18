@@ -4,12 +4,12 @@ title: 👑 Treasury
 grand_parent:
 parent:
 has_children: true
-nav_order:
+nav_order: 4
 
 ---
 
-# 👑 Treasury
-> The Guru Network Bankroll
+# Treasury
+> Guru Network's Bankroll
 
 ## Introduction
 The Treasury consists of multiple addresses and contracts, which hold various assets, bears liabilities, collects revenues and deploys capital expenditures.
