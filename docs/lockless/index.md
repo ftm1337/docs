@@ -17,6 +17,10 @@ SW-Tokens are liquid wrappers for the locked assets. They can be employed to ear
 ## Deployments
 Lockless Protocol is active on the following assets:
 
+### mFTM
+
+- FTM - The Native Fantom Opera Chain Coin
+
 ### SWKAVA
 
 - KAVA - The Native Kava Chain Coin
@@ -41,9 +45,14 @@ Each deployment has it's own unique features!
 ### Mint
 ⇢ [eliteness.network/lockless](https://eliteness.network/lockless)
 
+⇢ [eliteness.network/mftm](https://eliteness.network/mftm)
+
 ### Stake
 ⇢ [eliteness.network/lockless](https://eliteness.network/lockless)
 
 ### Trade
+⇢ [Equalizer](https://equalizer.exchange)
+
 ⇢ [ABcDeFx](https://abcdefx.eliteness.network)
+
 ⇢ [Equilibre](https://equilibrefinance.com)

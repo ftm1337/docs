@@ -4,7 +4,7 @@ title: Supply Distribution
 grand_parent:
 parent: ELITE, Our Token
 has_children:
-nav_order:
+nav_order: 3
 author: "FTM1337"
 date: "Dec. 1st, 2021"
 
