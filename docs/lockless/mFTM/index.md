@@ -8,7 +8,7 @@ nav_order:
 
 ---
 
-{.highlight}
+{: .highlight }
 
 mFTM is Owned and Managed by the Millenium Club!
 
