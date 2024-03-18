@@ -4,7 +4,7 @@ title: About ftm.guru
 grand_parent:
 parent: ELITE, Our Token
 has_children:
-nav_order: 2
+nav_order: 4
 
 ---
 
