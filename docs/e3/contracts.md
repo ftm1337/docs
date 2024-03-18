@@ -18,6 +18,7 @@ Blockchain Network | Contract Address
 ------------------ | ----------------
 Fantom Opera       | 0x8597db3ba8de6baadeda8cba4dac653e24a0e57b
 Arbitrum One       | 0x8597db3ba8de6baadeda8cba4dac653e24a0e57b
+Base               | 0x8597db3ba8de6baadeda8cba4dac653e24a0e57b
 
 ## Router
 The Router contract is the main contract that someone should use to interact with E3.
@@ -26,6 +27,7 @@ Blockchain Network | Contract Address
 ------------------ | ----------------
 Fantom Opera       | 0xB9A64ab6b91F5c7a78c2360CfF759dE8a8a450d5
 Arbitrum One       | 0xB9A64ab6b91F5c7a78c2360CfF759dE8a8a450d5
+Base               | 0xB9A64ab6b91F5c7a78c2360CfF759dE8a8a450d5
 
 ## Quoter
 The Quoter contract is a Helper contract to determine best path through multiple markets.
@@ -34,6 +36,7 @@ Blockchain Network | Contract Address
 ------------------ | ----------------
 Fantom Opera       | 0x0A129Ce42df82a5De2B4921883a56565bDF8E146
 Arbitrum One       | 0x0A129Ce42df82a5De2B4921883a56565bDF8E146
+Base               | 0x0A129Ce42df82a5De2B4921883a56565bDF8E146
 
 
 ----

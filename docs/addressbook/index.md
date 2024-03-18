@@ -32,4 +32,12 @@ Protocol Reserve			| 0xbab9645d1b78425a7e4e9e78e8dd32aabd800a16
 Deployer					| 0x5c146cd18fa53914580573c9b9604588529406ca
 Treasury					| 0x167d87a906da361a10061fe42bbe89451c2ee584
 MultiSig (Fantom)			| 0x6eb18f06dff6759e2c66d29550397f624f36829f
-Wrapper Manager				| 0xc63bac4dc21477e6fd651a88558f5d410b3c3d5b |
+Wrapper Manager				| 0xc63bac4dc21477e6fd651a88558f5d410b3c3d5b
+
+## Proxies
+
+Name | Address
+ ---- | ----
+Fantom          |
+Base            | 0xfab311fe3e3be4bb3fed77257ee294fb22fa888b
+Polygon Matic   | 0x026e6a68dfe4d06647953c00e407646b48920b82
