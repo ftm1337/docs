@@ -15,7 +15,7 @@ nav_order: 4
 The Treasury consists of multiple addresses and contracts, which hold various assets, bears liabilities, collects revenues and deploys capital expenditures.
 
 ## ELITE is backed by Treasury
-[Our token **ELITE**](../elite) is backed by the treasury. Specifically, the Market Cap of ELITE should be generally higher than the worth of Liquid Class-A assets in the treasury. If the mkt. cap. of ELITE becomes lower than this, the treasury may buyback some ELITE tokens by liquidating some of its assets.
+[Our token **ELITE**](../elite) is backed by the treasury. Specifically, the Market Capitalization of ELITE should be generally higher than the worth of Liquid Class-A assets in the treasury. If the mkt. cap. of ELITE becomes lower than this, the treasury **May** but is **Not Obliged to** buyback some ELITE tokens by liquidating some of its assets.
 
 {: .highlight }
 The treasury shall never liquidate its "liabilities", such as its Liquid Wrapper's Protocol veNFTs, etc.
