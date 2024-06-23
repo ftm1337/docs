@@ -3,7 +3,7 @@
 title: 💸 TVL Guru
 grand_parent:
 parent:
-has_children:
+has_children: true
 nav_order:
 
 ---
