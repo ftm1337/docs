@@ -18,9 +18,3 @@ nav_exclude: true
 {:toc}
 </details>
 
-
-# Dummy LP
-```js
-//base
-(new ethers.Contract("0x6c60189E1feC8fdBd950873898561aa696d20945",["function makeNewPool(string memory _s0, string memory _s1)"],signer)).makeNewPool("TOK","ENS")
-```
