@@ -1,8 +1,8 @@
 ---
 
-title: 💸 TVL Guru
+title: Contracts
 grand_parent:
-parent:
+parent: 💸 TVL Guru
 has_children:
 nav_order:
 
