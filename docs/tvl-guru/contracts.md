@@ -8,10 +8,28 @@ nav_order:
 
 ---
 
+## TvlGuru
+
 Address                                    | Description
------------------------------------------- | -------------------------
+------------------------------------------ | ----------------------------------
+0x7a18D1b46baaBB2D8260D0f8cfBb2292901c2779 | Base Tvl Guru
+
+## PriceGuru
+Highest level abstraction
+
+Address                                    | Description
+------------------------------------------ | ----------------------------------
 0xF51dFA293ac09A1f6535d5B679F6d02d90E91F99 | Fantom Price Guru
 0x02c32e0a34ab6fa5825565254f79c8c690d98666 | Base Price Guru
+
+
+## CL ALM TvlGuru
+Token level abstractions
+
+Address                                    | Description
+------------------------------------------ | ----------------------------------
+0x9A949959057FBBdF1be20B489ceea51994fa59C9 | Base NATIVE/USD6
+0x7b54DfeC0d532808D23CC24E0035D74557e46F75 | Base Token/Native, Token/Usd6
 
 
 ---
