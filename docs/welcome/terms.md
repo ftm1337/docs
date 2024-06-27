@@ -23,7 +23,7 @@ You agree to defend, indemnify and hold us harmless and our affiliates, and our 
 
 
 ## Updates and Upgrades.  
-We may from time to time provide updates or upgrades to the Platform (each a “Revision”), but are not under any obligation to do so.  Such Revisions will be supplied according to our then-current policies, which may include automatic updating or upgrading without any additional notice to you.  You hereby consent to any such automatic updating or upgrading of the Platform.  All references herein to the Platform shall include Revisions.  This Agreement shall govern any Revisions that replace or supplement the original Platform, unless the Revision is accompanied by a separate license agreement which will govern the Revision and/or if otherwise instructed in writing by Braavos.
+We may from time to time provide updates or upgrades to the Platform (each a “Revision”), but are not under any obligation to do so.  Such Revisions will be supplied according to our then-current policies, which may include automatic updating or upgrading without any additional notice to you.  You hereby consent to any such automatic updating or upgrading of the Platform.  All references herein to the Platform shall include Revisions.  This Agreement shall govern any Revisions that replace or supplement the original Platform, unless the Revision is accompanied by a separate license agreement which will govern the Revision and/or if otherwise instructed in writing by us.
 
 ## Term and Termination.
 This Agreement is effective until terminated by us or you.  We reserve the right, at any time, to: (i) discontinue or modify any aspect of the Platform; and/or (ii) suspend or terminate this Agreement and your use of the Platform with or without cause, and shall not be liable to you or any third party for any of the foregoing.  If you object to any term or condition of this Agreement or any subsequent modifications thereto, or become dissatisfied with the Platform in any way, your only recourse and remedy (and our sole liability and/or obligation) is to immediately discontinue use of the Service.
@@ -32,7 +32,7 @@ Upon termination of this Agreement, you shall cease all use of the Platform.  Th
 
 ## Third Party Open Source Software and Third Party Services.
 
-Portions of the Platform may include third party open source software that are subject to third party terms and conditions (“Third Party Terms”).  A list of any third party open source software and related Third Party Terms is available upon request. If there is a conflict between any Third Party Terms and the terms of this Agreement, then the Third Party Terms shall prevail but solely in connection with the related third party open source software. Notwithstanding anything in this Agreement to the contrary, Braavos makes no warranty or indemnity hereunder with respect to any third party open source software.
+Portions of the Platform may include third party open source software that are subject to third party terms and conditions (“Third Party Terms”).  A list of any third party open source software and related Third Party Terms is available upon request. If there is a conflict between any Third Party Terms and the terms of this Agreement, then the Third Party Terms shall prevail but solely in connection with the related third party open source software. Notwithstanding anything in this Agreement to the contrary, us makes no warranty or indemnity hereunder with respect to any third party open source software.
 
 When you use our Platform, you may also be using the services of one or more third parties. Your use of those and other third-party services (“Third-Party Services”) will be subject to the privacy policies, terms of use and similar policies and terms, and fees of those third party services.
 
@@ -59,7 +59,7 @@ Your information is never collected by us. As such, it never exists with us in t
 ## Data stored on the blockchain:
 The information stored on the blockchain will be shared with anyone accessing the blockchain network, since the blockchain is a decentralized and public protocol, which could include parties that are located outside from your country or jurisdiction. Please note these parties may be located in countries and jurisdictions that do not approach or protect your privacy rights as in your jurisdiction. In any event, please note that sharing data with such parties is necessary for use of the Product.
 
-IMPORTANT NOTE: TRANSACTIONS THAT YOU PERFORM THROUGH BRAAVOS’ PRODUCT WILL BE SENT TO THE BLOCKCHAIN. THESE TRANSACTIONS AND THEIR ASSOCIATED DATA WILL BE STORED ON THE BLOCKCHAIN PERPETUALLY, WITHOUT ANY WAY FOR DELETION, SINCE THE BLOCKCHAIN IS A DECENTRALIZED AND OPEN-SOURCE NETWORK.
+IMPORTANT NOTE: TRANSACTIONS THAT YOU PERFORM THROUGH us’ PRODUCT WILL BE SENT TO THE BLOCKCHAIN. THESE TRANSACTIONS AND THEIR ASSOCIATED DATA WILL BE STORED ON THE BLOCKCHAIN PERPETUALLY, WITHOUT ANY WAY FOR DELETION, SINCE THE BLOCKCHAIN IS A DECENTRALIZED AND OPEN-SOURCE NETWORK.
 
 ## IF YOU DISAGREE WITH ANY SECTION MENTIONED HERE, PLEASE DO NOT USE OUR PRODUCTS.
 
