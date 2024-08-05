@@ -38,6 +38,6 @@ Wrapper Manager				| 0xc63bac4dc21477e6fd651a88558f5d410b3c3d5b
 
 Name | Address
  ---- | ----
-Fantom          |
+Fantom          | 0x10f9215328fcda960d8ef0dc9c402ef44a5e1680
 Base            | 0xfab311fe3e3be4bb3fed77257ee294fb22fa888b
 Polygon Matic   | 0x026e6a68dfe4d06647953c00e407646b48920b82
