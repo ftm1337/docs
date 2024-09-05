@@ -9,6 +9,7 @@ nav_order:
 ---
 
 ## TvlGuru
+Project level abstraction
 
 Address                                    | Description
 ------------------------------------------ | ----------------------------------
@@ -20,7 +21,7 @@ Highest level abstraction
 Address                                    | Description
 ------------------------------------------ | ----------------------------------
 0xF51dFA293ac09A1f6535d5B679F6d02d90E91F99 | Fantom Price Guru
-0x02c32e0a34ab6fa5825565254f79c8c690d98666 | Base Price Guru
+0x6f533C55406641f7e8Fe412c36F512eB3847244e | Base Price Guru
 
 
 ## CL ALM TvlGuru
@@ -47,3 +48,9 @@ Address                                    | Description
 
 #### v4 Address
 - `0x41b9231e528a417341382b2c995c6dde21cea93d` [Read on ftmscan](https://ftmscan.com/address/0x41b9231e528a417341382b2c995c6dde21cea93d#readContract)
+
+## ftm.guru's TvlGuru
+> Original version was born on Fantom for ftm.guru's various protocols and services.
+
+### Refer to [ / TvlGuru / ftm.guru](./ftmguru)
+
