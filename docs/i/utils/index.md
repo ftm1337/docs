@@ -30,3 +30,6 @@ nav_order:
 
 # MultiNotify
 
+https://basescan.org/address/0xf7d8c4094c330f3d70f597ba892c44206f07d792#code
+
+https://ftmscan.com/address/0x507fa4d71ebb75211ea8375232adf305eeb2e9ea#code
