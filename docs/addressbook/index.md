@@ -38,11 +38,12 @@ Treasury 5					| 0x8786B9F310C330a825Cd1b26EfF9773af665F358
 
 ## Proxies
 
-Name | Address
+Chain Name | Address
  ---- | ----
 Fantom          | 0x10f9215328fcda960d8ef0dc9c402ef44a5e1680
 Base            | 0xfab311fe3e3be4bb3fed77257ee294fb22fa888b
 Polygon Matic   | 0x026e6a68dfe4d06647953c00e407646b48920b82
+Blast			| 0xDf486980Df72446a5efF76263eFb2Fa9391Be136
 
 ## Multisig
 

@@ -13,17 +13,22 @@ Project level abstraction
 
 Address                                    | Blockchain | Description
 ------------------------------------------ | -----------|----------------------
-0x7a18D1b46baaBB2D8260D0f8cfBb2292901c2779 | Base       | Tvl Guru
-0x541C44937e34E69F2dA37590B591Ff840e79917d | Fantom     | TvlGuru v18
+0x7a18D1b46baaBB2D8260D0f8cfBb2292901c2779 | Base       | Tvl Guru v8
+0x541C44937e34E69F2dA37590B591Ff840e79917d | Fantom     | TvlGuru v18 (PriceGuru_v2)
+0xFAB311FE3E3be4bB3fEd77257EE294Fb22Fa888b | Blast		| TvlGuru v8
+0xbF4BFeB838De95d64726d55dfae5295b3DFb4B4B | Blast		| TvlGuru v18 (PriceGuru_v2)
 
 ## PriceGuru
 Highest level abstraction
 
-Address                                    | Description
------------------------------------------- | ----------------------------------
-0xb0816214fF6fd53cc20b4a17048fc2F61CA56BD1 | Fantom Price Guru Hub (Proxy)
-0xF51dFA293ac09A1f6535d5B679F6d02d90E91F99 | Fantom Price Guru Implementation 1
-0x6f533C55406641f7e8Fe412c36F512eB3847244e | Base Price Guru Implementation 1
+Address                                    | Chain		| Description
+------------------------------------------ | ---------- | ------------------------
+0xb0816214fF6fd53cc20b4a17048fc2F61CA56BD1 | Fantom     | Hub (Proxy) v1
+0xF51dFA293ac09A1f6535d5B679F6d02d90E91F99 | Fantom 	| Implementation v1 [deprecated]
+0x2ba523aed1e9e81677912325534b7401a767401b | Fantom 	| Implementation v2
+0x6f533C55406641f7e8Fe412c36F512eB3847244e | Base 		| Implementation v1 [deprecated]
+0x232Bf375F759721960081af6AE774A1F1dE3ae86 | Blast	    | Hub (Proxy)
+0x9d9682577CA889c882412056669bd936894663fd | Blast		| Implementation v3 = PriceGuru_v3
 
 
 ## CL ALM TvlGuru
