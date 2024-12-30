@@ -25,10 +25,12 @@ Address                                    | Chain		| Description
 ------------------------------------------ | ---------- | ------------------------
 0xb0816214fF6fd53cc20b4a17048fc2F61CA56BD1 | Fantom     | Hub (Proxy) v1
 0xF51dFA293ac09A1f6535d5B679F6d02d90E91F99 | Fantom 	| Implementation v1 [deprecated]
-0x2ba523aed1e9e81677912325534b7401a767401b | Fantom 	| Implementation v2
+0x30089527CA77648aeF8878D538333Afd494c4259 | Fantom 	| Implementation v2
 0x6f533C55406641f7e8Fe412c36F512eB3847244e | Base 		| Implementation v1 [deprecated]
 0x232Bf375F759721960081af6AE774A1F1dE3ae86 | Blast	    | Hub (Proxy)
-0x9d9682577CA889c882412056669bd936894663fd | Blast		| Implementation v3 = PriceGuru_v3
+0x6cEC3c66b518A1F6fFFC048C75557383320195C1 | Blast		| Implementation v3 = PriceGuru_v3
+ | Sonic	    | Hub (Proxy)
+0x6cEC3c66b518A1F6fFFC048C75557383320195C1 | Sonic		| Implementation v3 = PriceGuru_v3
 
 
 ## CL ALM TvlGuru
