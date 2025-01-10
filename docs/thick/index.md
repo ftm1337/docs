@@ -55,6 +55,18 @@ Thanks to our special Fee-Synthesizers, this process of Revenue collection can a
 - ICHI
 - Gamma
 
+## V1 vs V2
+
+### Thick v1
+THICK is the original version of thick, with support for Fixed Immutable Fee Tiers.
+
+### Thick v2, aka 2THICK & T2.
+2THICK introduces:
+- Dynamic Fees
+- Using TickSpacing to uniquely identify a pool
+- More integrations
+- And everything that THICK v1 has!
+
 ## Integrate THICK into your protocol today!
 
 You can integrate THICK Liquidity permissionlessly for Manually managed Concentrated Liquidity.
