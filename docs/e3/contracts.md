@@ -39,6 +39,18 @@ Arbitrum One       | 0x0A129Ce42df82a5De2B4921883a56565bDF8E146
 Base               | 0x0A129Ce42df82a5De2B4921883a56565bDF8E146
 
 
+## Helpers
+
+
+
+Contract Address                           | Blockchain Network | Contract Description
+------------------------------------------ |------------------- | --------------------
+0x5a054233e59323e7a58f6b7dae86e6992f1f92e2 | Fantom Opera       | Position Total
+0x6Bd83D42C1F5F9ddc1a22fd817B3b074776d1190 | Fantom Opera       | Liquidity Amounts
+0x1D33404C1cE98152260382dB2C6793430F7caB39 | Fantom Opera       | Liquidity Helper
+0xc4c807aee35f75c891cb51ef982c98371b1362b4 | Arbitrum One       | Position Total
+0xb62f6095f2afd00702fb79570c9f1aa730510fc4 | Base               | Position Total
+
 ----
 
 # Legacy Contracts
