@@ -51,9 +51,10 @@ We dont recommend relying on these CDNs as they might change anytime. Downloadin
 
 Original ELITE (ftm.guru) on Fantom Opera Logo
 ELITE (new) and Eliteness ![](https://ftm.guru/icons/eliteness.png)
-![](https://ftm.guru/icons/e3.png)
-![](https://ftm.guru/icons/ethena.png)
-![](https://ftm.guru/icons/equal.png)
-![](https://ftm.guru/icons/vax.svg)
-![](https://ftm.guru/icons/scale.png)
-![](https://ftm.guru/icons/ethena.png)
+E3 ![](https://ftm.guru/icons/e3.png)
+eTHENA ![](https://ftm.guru/icons/ethena.png)
+V.A.X. ![](https://ftm.guru/icons/vax.svg)
+El Ramses ![](https://ftm.guru/icons/elr.png)
+El Retro ![](https://ftm.guru/icons/el-retro.png)
+Lockless swKAVA ![](https://ftm.guru/icons/swkava.png)
+Lockless Protocol ![](https://ftm.guru/icons/lockless.svg)
