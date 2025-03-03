@@ -22,7 +22,7 @@ For example, to show eTHENA, you could either use just eTHENA's logo, or use its
 ## Brand Color is #001337
 `0x001337` or `#001337` is our Hex Code. This is Dark Navy Blue. Use a Level-`AAA` color such as Full White `#FFFFFFFF` with it for contrast, as recommended in [WCAG21](https://www.w3.org/TR/WCAG21/#contrast-enhanced).
 
-## Protcol Logos & Token Logos
+## Protocol Logos & Token Logos
 
 We store our logos in the [`@ftm1337/icons`](https://github.com/ftm1337/icons) repository.
 
@@ -31,10 +31,12 @@ Token logos are also stored in [`@funified-defi/equalizer-tokens`](https://githu
 To find a token's logo, locate its chain's directory & then find its address.
 
 ### CDN
-You may also find the assets at ftm.guru/icons/<someIcon>.png
+You may also find the assets at `ftm.guru/icons/<someIcon>.png`
 > [https://ftm.guru/icons/ftm1337.jpg](https://ftm.guru/icons/ftm1337.jpg)
 
-Also available through:
+Also available through cdnjs
+- Original `.../<chain>/tokens/<0xlowercasetokenaddress>.png`
+- Optimized `.../<chain>/tokens/128x128/<0xlowercasetokenaddress>.png`
 > [https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/sonic/tokens/128x128/0x30c8cf6b46aa4df3f9fbc2857aca92f10a6cad7f.png](https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/sonic/tokens/128x128/0x30c8cf6b46aa4df3f9fbc2857aca92f10a6cad7f.png)
 
 ### Recommended
@@ -48,5 +50,10 @@ We dont recommend relying on these CDNs as they might change anytime. Downloadin
 ## Popular Logos
 
 Original ELITE (ftm.guru) on Fantom Opera Logo
-
-https://ftm
+ELITE (new) and Eliteness ![](https://ftm.guru/icons/eliteness.png)
+![](https://ftm.guru/icons/e3.png)
+![](https://ftm.guru/icons/ethena.png)
+![](https://ftm.guru/icons/equal.png)
+![](https://ftm.guru/icons/vax.svg)
+![](https://ftm.guru/icons/scale.png)
+![](https://ftm.guru/icons/ethena.png)
