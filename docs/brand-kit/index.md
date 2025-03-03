@@ -48,10 +48,11 @@ We dont recommend relying on these CDNs as they might change anytime. Downloadin
 
 
 ## Popular Logos
+
 Name of the Logo				|	Logo (Right Click for link)
---------------------------------|---------------------------------------------------
+------------------------------- | --------------------------------------------------
 Original ELITE (ftm.guru) 		|	![](https://ftm.guru/icons/ftm1337.jpg)
-Original ELITE (ftm.guru) 		|	![](https://ftm.guru/icons/ftm1337.jpg)
+Original ELITE (ftm.guru) 		|	![](https://ftm.guru/icons/64.png)
 ELITE (new) and Eliteness		|	![](https://ftm.guru/icons/eliteness.png)
 E3								|	![](https://ftm.guru/icons/e3.png)
 eTHENA							|	![](https://ftm.guru/icons/ethena.png)
