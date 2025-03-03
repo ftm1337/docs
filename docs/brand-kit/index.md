@@ -48,13 +48,15 @@ We dont recommend relying on these CDNs as they might change anytime. Downloadin
 
 
 ## Popular Logos
-
-Original ELITE (ftm.guru) on Fantom Opera Logo
-ELITE (new) and Eliteness ![](https://ftm.guru/icons/eliteness.png)
-E3 ![](https://ftm.guru/icons/e3.png)
-eTHENA ![](https://ftm.guru/icons/ethena.png)
-V.A.X. ![](https://ftm.guru/icons/vax.svg)
-El Ramses ![](https://ftm.guru/icons/elr.png)
-El Retro ![](https://ftm.guru/icons/el-retro.png)
-Lockless swKAVA ![](https://ftm.guru/icons/swkava.png)
-Lockless Protocol ![](https://ftm.guru/icons/lockless.svg)
+Name of the Logo				|	Logo (Right Click for link)
+--------------------------------|---------------------------------------------------
+Original ELITE (ftm.guru) 		|	![](https://ftm.guru/icons/ftm1337.jpg)
+Original ELITE (ftm.guru) 		|	![](https://ftm.guru/icons/ftm1337.jpg)
+ELITE (new) and Eliteness		|	![](https://ftm.guru/icons/eliteness.png)
+E3								|	![](https://ftm.guru/icons/e3.png)
+eTHENA							|	![](https://ftm.guru/icons/ethena.png)
+V.A.X.							|	![](https://ftm.guru/icons/vax.svg)
+El Ramses						|	![](https://ftm.guru/icons/elr.png)
+El Retro						|	![](https://ftm.guru/icons/el-retro.png)
+Lockless swKAVA					|	![](https://ftm.guru/icons/swkava.png)
+Lockless Protocol				|	![](https://ftm.guru/icons/lockless.svg)
