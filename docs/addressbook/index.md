@@ -35,6 +35,7 @@ MultiSig (Fantom)			| 0x6eb18f06dff6759e2c66d29550397f624f36829f
 Wrapper Manager				| 0xc63bac4dc21477e6fd651a88558f5d410b3c3d5b
 Treasury 4					| 0x1d99b3711C440CfBcc58Ff5460D79B1f3EEf2e31
 Treasury 5					| 0x8786B9F310C330a825Cd1b26EfF9773af665F358
+Treasury 6 (Reserve)		| 0x189c50D0a14322CE9d5204BafC303d64fc1f01D5
 
 ## Proxies
 

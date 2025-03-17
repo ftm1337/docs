@@ -37,6 +37,21 @@ All "2Thick" addresses are Same on Base, Fantom & Sonic
 - `0xE4Ba08712C404042b8EEfC3fdF3b603c977500dF` = swapRouter02
 ```
 
+2THICK Addresses are Different on BSC:
+```
+  v3CoreFactoryAddress: '0x5C0a9661E0bC1294bB87686C472F7C699831B1ea',
+  multicall2Address: '0x4957BACD695a14CE6C518823A3540778bB96FE2A',
+  proxyAdminAddress: '0x9FC27E801c49b859De8c36cAA116a4075b465610',
+  tickLensAddress: '0xf1E3f2ed4b11f799285be1b7c90c502d47d54fC0',
+  nftDescriptorLibraryAddress: '0xf60dB1240249CA6D00617b25E2adac30e33E1703',
+  nonfungibleTokenPositionDescriptorAddress: '0x0f3A46Ed44B33b38CA5827dB64150f884a19a7F8',
+  descriptorProxyAddress: '0x490768540dd6e5d2addc1e210d9461aa4e438a2b',
+  nonfungibleTokenPositionManagerAddress: '0x339667E1B3C570e58899bcE61f72dC469881B261',
+  v3MigratorAddress: '',
+  v3StakerAddress: '',
+  quoterV2Address: '0x994975bb2d646F79FbFF0577FD81d4099B597D9D',
+  swapRouter02: '0x2fE6b3A08885851dBE981cA32b1411Ce93A1E75E'
+```
 ### V1 Addresses
 
 Artifact    | Smart Contract Address
