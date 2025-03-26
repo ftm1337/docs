@@ -14,7 +14,7 @@ nav_order:
 ## New ELITE
 > New ELITE token is an omnichain token - meaning it exists on many chains!
 
-{.highlight}
+{: .highlight}
 You can convert your old original ELITE token to the new ELITE token on E3 DEX at [eliteness.network/e3/250-10](https://eliteness.network/e3/250-10).
 
 ### `0x30C8Cf6B46AA4DF3F9fbC2857aca92F10a6cAd7f`

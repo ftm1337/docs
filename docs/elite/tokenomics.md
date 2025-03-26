@@ -2,7 +2,7 @@
 
 title: Tokenomics
 grand_parent:
-parent: ELITE, Our Token
+parent:  ≢ ELITE, Our Token
 has_children:
 nav_order: 2
 

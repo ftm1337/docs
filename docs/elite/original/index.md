@@ -1,6 +1,6 @@
 ---
 
-title: ELITE, Our Token
+title: Original ELITE on Fantom
 grand_parent:
 parent: ≢ ELITE, Our Token
 has_children: true
