@@ -1,6 +1,6 @@
 ---
 
-title: ELITE Contracts
+title: Contract Address
 grand_parent:
 parent:  ≢ ELITE, Our Token
 has_children:
@@ -17,7 +17,7 @@ nav_order:
 {: .highlight}
 You can convert your old original ELITE token to the new ELITE token on E3 DEX at [eliteness.network/e3/250-10](https://eliteness.network/e3/250-10).
 
-### `0x30C8Cf6B46AA4DF3F9fbC2857aca92F10a6cAd7f`
+## `0x30C8Cf6B46AA4DF3F9fbC2857aca92F10a6cAd7f`
 This is the official address of the new omnichain ELITE token
 
 Address | Chain
@@ -38,5 +38,5 @@ Address | Chain
 ## Original ELITE
 > The Original ELITE token exists only on Fantom Opera Chain
 
-### `0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882`
+## `0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882`
 This is the official Token address of original ELITE.

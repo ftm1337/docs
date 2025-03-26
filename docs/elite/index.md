@@ -12,7 +12,7 @@ nav_order: 3
 > $ELITE is the Eliteness.Network token!
 
 
-{.highlight}
+{: .highlight}
 You can convert your old original ELITE token to the new ELITE token on E3 DEX at [eliteness.network/e3/250-10](https://eliteness.network/e3/250-10).
 
 

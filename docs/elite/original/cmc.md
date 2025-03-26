@@ -2,7 +2,7 @@
 
 title: Self-Report (CMC)
 grand_parent: ≢ ELITE, Our Token
-parent: ELITE, Our Token
+parent: Original ELITE on Fantom
 has_children:
 nav_order: 5
 
