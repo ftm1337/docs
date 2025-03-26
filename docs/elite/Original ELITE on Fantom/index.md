@@ -1,21 +1,15 @@
 ---
 
-title:  ≢ ELITE, Our Token
+title: ELITE, Our Token
 grand_parent:
-parent:
+parent: ≢ ELITE, Our Token
 has_children: true
-nav_order: 3
+nav_order: 1
 
 ---
 
 # ELITE
-> $ELITE is the Eliteness.Network token!
-
-
-{.highlight}
-You can convert your old original ELITE token to the new ELITE token on E3 DEX at [eliteness.network/e3/250-10](https://eliteness.network/e3/250-10).
-
-
+> $ELITE is the ftm.guru token!
 
 ## An Elite History
 One of the earliest tokens on the Fantom Network, ELITE was created with the sole purpose of being a prized possession due to its scarce supply.

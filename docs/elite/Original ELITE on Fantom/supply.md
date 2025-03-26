@@ -1,7 +1,7 @@
 ---
 
 title: Supply Distribution
-grand_parent:
+grand_parent: ≢ ELITE, Our Token
 parent: ELITE, Our Token
 has_children:
 nav_order: 3
