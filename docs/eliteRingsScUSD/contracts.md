@@ -1,26 +1,16 @@
 ---
 
-title: FAQs
+title: Contracts
 grand_parent:
-parent: elite
+parent: eliteRingsScUSD
 has_children:
-nav_order:
+nav_order: 3
 
 ---
 
 # Contract Addresses
-> VAX Supports Fee-on-Transfer tokens!
-
-## Factory
-This is the core contract responsible for creating a 'liquidity **pool**' for a '**pair**' of tokens.
-
-Blockchain Network | Contract Address
+Purpose            | Contract Address
 ------------------ | ----------------
-MultiVAC           | 0xbaC576111e2BC5EfBbE7c5d765b9DC44083901fD
-
-## Router
-The Router contract is the main contract that someone should use to interact with VAX.
-
-Blockchain Network | Contract Address
------------------- | ----------------
-MultiVAC           | 0x40d40eb64CB2e06EE67b932F7Cb3f57fE8f14C2f
+eliteRingsScUSD    | [0xd4aa386bfceeedd9de0875b3ba07f51808592e22](https://sonicscan.org/token/0xd4aa386bfceeedd9de0875b3ba07f51808592e22)
+veUSD              | [0x0966CAE7338518961c2d35493D3EB481A75bb86B](https://sonicscan.org/token/0x0966CAE7338518961c2d35493D3EB481A75bb86B)
+scUSD              | [0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE](https://sonicscan.org/token/0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE)

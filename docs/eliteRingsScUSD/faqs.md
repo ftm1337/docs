@@ -4,7 +4,7 @@ title: FAQs
 grand_parent:
 parent: eliteRingsScUSD
 has_children:
-nav_order:
+nav_order: 2
 
 ---
 
