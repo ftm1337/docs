@@ -12,7 +12,9 @@ nav_order: 1
 > About the eliteRingsScUSD Tokens
 
 ## Overview
-eliteRingsScUSD (read: elite-rings-scUSD) is a Liquid Wrapper for Rings.Money's scUSD veNFT (veUSD). It is based on [our eTHENA model](./ethena), which helps trade 1-year locked veUSD easily in both directions.
+eliteRingsScUSD (read: elite-rings-scUSD) is a Liquid Wrapper for [Rings.Money](https://rings.money)'s scUSD veNFT (veUSD).
+
+It is based on [our eTHENA model](../../ethena), which helps trade 1-year locked veUSD easily in both directions.
 
 ### Basics
 - eliteRingsScUSD is minted with veUSD nfts
