@@ -17,4 +17,4 @@ The **V**alue **A**dded E**x**change (a.k.a. V.A.X. 💉) is the Biggest Communi
 Fee-Revenue governable DEX with targeted trade-fee adjustments, suitable even as StableSwap with 0.075% ultra-low fee, modeled using inspiration from 1inch, DXDao, Solidly, Sushi & UniswapV3 contracts.
 
 ## Visit the Dapp
-### [vax.mtv.guru](https://vax.mtv.guru)
+### [vax.mtv.guru](https://vax.eliteness.network)
