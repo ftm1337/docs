@@ -15,7 +15,7 @@ nav_order: 4
 The Treasury consists of multiple addresses and contracts, which hold various assets, bears liabilities, collects revenues and deploys capital expenditures.
 
 ## Grpahic Visualization
-Check out the [Treasury Tracker](https;//eliteness.network/treasury) Dapp!
+Check out the **[Treasury Tracker](https://eliteness.network/treasury) Dapp**!
 
 ## ELITE is backed by Treasury
 [Our token **ELITE**](../elite) is backed by the treasury. Specifically, the Market Capitalization of ELITE should be generally higher than the worth of Liquid Class-A assets in the treasury. If the mkt. cap. of ELITE becomes lower than this, the treasury **May** but is **Not Obliged to** buyback some ELITE tokens by liquidating some of its assets.
