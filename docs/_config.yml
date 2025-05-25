@@ -1,8 +1,8 @@
-# logo: "https://ftm.guru/icons/64.png"
-title: "Guru Network"
+ logo: "https://ftm.guru/icons/eliteness.png"
+title: "Eliteness.Network"
 remote_theme: just-the-docs/just-the-docs
 # color_scheme: "dark"
-description: Documentation website of Guru Network.
+description: Documentation website of Eliteness.Network (Guru Network).
 baseurl: "/docs"
 url: "https://ftm.guru"
 permalink: pretty
@@ -68,7 +68,7 @@ gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: nil
+color_scheme: "dark"
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
