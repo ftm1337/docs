@@ -96,7 +96,7 @@ compress_html:
 
 callouts:
   highlight:
-    color: "#ffff002f"
+    color: ffff00
   important:
     title: Important
     color: blue
