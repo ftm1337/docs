@@ -29,7 +29,7 @@ Address                                    | Chain		| Description
 0x6f533C55406641f7e8Fe412c36F512eB3847244e | Base 		| Implementation v1 [deprecated]
 0x232Bf375F759721960081af6AE774A1F1dE3ae86 | Blast	    | Hub (Proxy)
 0x6cEC3c66b518A1F6fFFC048C75557383320195C1 | Blast		| Implementation v3 = PriceGuru_v3
- | Sonic	    | Hub (Proxy)
+0x5A11968256F7860C9c19513aDf30AD9C8F5F6041 | Sonic	    | Hub (Proxy)
 0x6cEC3c66b518A1F6fFFC048C75557383320195C1 | Sonic		| Implementation v3 = PriceGuru_v3
 
 
