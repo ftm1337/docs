@@ -20,12 +20,19 @@ nav_order:
 
 # CreateNewPool
 
+- base
 ```js
-//base
 (new ethers.Contract("0x6c60189E1feC8fdBd950873898561aa696d20945",["function makeNewPool(string memory _s0, string memory _s1)"],signer)).makeNewPool("TOK","ENS")
+```
 
-//ftm
+- ftm
+```js
 (new ethers.Contract("0x6f1e43b5c52beb7afb890e367e1208cf3f018e63",["function makeNewPool(string memory _s0, string memory _s1)"],signer)).makeNewPool("TOK","ENS")
+```
+
+- sonic
+```js
+(new ethers.Contract("0x766dF1169BFF4ABA19d363eED1060C5B599c9DdB",["function makeNewPool(string memory _s0, string memory _s1)"],signer)).makeNewPool("TOK","ENS")
 ```
 
 # MultiNotify
