@@ -32,7 +32,7 @@ To find a token's logo, locate its chain's directory & then find its address.
 
 ### CDN
 You may also find the assets at `ftm.guru/icons/<someIcon>.png`
-> [https://ftm.guru/icons/ftm1337.jpg](https://ftm.guru/icons/ftm1337.jpg)
+> [https://ftm1337.eliteness.network/icons/ftm1337.jpg](https://ftm1337.eliteness.network/icons/ftm1337.jpg)
 
 Also available through cdnjs
 - Original `.../<chain>/tokens/<0xlowercasetokenaddress>.png`
@@ -51,15 +51,15 @@ We dont recommend relying on these CDNs as they might change anytime. Downloadin
 
 Name of the Logo				|	Logo (Right Click for link)
 ------------------------------- | --------------------------------------------------
-Original ELITE (ftm.guru) 		|	![](https://ftm.guru/icons/ftm1337.jpg)
-Original ELITE (ftm.guru) 		|	![](https://ftm.guru/icons/64.png)
-ELITE (new) and Eliteness		|	![](https://ftm.guru/icons/eliteness.png)
-E3								|	![](https://ftm.guru/icons/e3.png)
-eTHENA							|	![](https://ftm.guru/icons/ethena.png)
-V.A.X.							|	![](https://ftm.guru/icons/vax.svg)
-El Ramses						|	![](https://ftm.guru/icons/elr.png)
-El Retro						|	![](https://ftm.guru/icons/elretro.png)
-Lockless swKAVA					|	![](https://ftm.guru/icons/swkava.png)
-Lockless Protocol				|	![](https://ftm.guru/icons/lockless.svg)
+Original ELITE (ftm.guru) 		|	![](https://ftm1337.eliteness.network/icons/ftm1337.jpg)
+Original ELITE (ftm.guru) 		|	![](https://ftm1337.eliteness.network/icons/64.png)
+ELITE (new) and Eliteness		|	![](https://ftm1337.eliteness.network/icons/eliteness.png)
+E3								|	![](https://ftm1337.eliteness.network/icons/e3.png)
+eTHENA							|	![](https://ftm1337.eliteness.network/icons/ethena.png)
+V.A.X.							|	![](https://ftm1337.eliteness.network/icons/vax.svg)
+El Ramses						|	![](https://ftm1337.eliteness.network/icons/elr.png)
+El Retro						|	![](https://ftm1337.eliteness.network/icons/elretro.png)
+Lockless swKAVA					|	![](https://ftm1337.eliteness.network/icons/swkava.png)
+Lockless Protocol				|	![](https://ftm1337.eliteness.network/icons/lockless.svg)
 eliteRingsScUSD  				|	![](https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/sonic/tokens/128x128/0xd4aa386bfceeedd9de0875b3ba07f51808592e22.png)
 eliteRingsScETH 				|	![](https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/sonic/tokens/128x128/0xdc2dE2f2C0122FF7cb8482DC47DA75a6a5D1A88B.png)

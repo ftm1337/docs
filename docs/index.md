@@ -6,4 +6,4 @@ has_children:
 
 ---
 
-![](https://ftm.guru/icons/ftmguru-landing.png)
+![](https://ftm1337.eliteness.network/icons/ftmguru-landing.png)
